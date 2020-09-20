@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2896d114-1761-4780-a91a-238fc5f855de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/diagnol-difference/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/diagnol-difference/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staircase/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plus-minus/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/plus-minus/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

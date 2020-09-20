@@ -23,9 +23,9 @@ func plusMinus(numbers []int32) {
 		}
 	}
 	nNumbers := float32(len(numbers))
-	fmt.Printf("%.6f\n", nPositive / nNumbers)
-	fmt.Printf("%.6f\n", nNegative / nNumbers)
-	fmt.Printf("%.6f", nZero / nNumbers)
+	fmt.Println("%.6f", nPositive / nNumbers)
+	fmt.Println("%.6f", nNegative / nNumbers)
+	fmt.Println("%.6f", nZero / nNumbers)
 }
 
 func main() {
