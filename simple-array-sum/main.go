@@ -10,6 +10,7 @@ import (
 )
 
 // Complete the simpleArraySum function below.
+// Found at https://www.hackerrank.com/challenges/simple-array-sum/problem.
 func simpleArraySum(numbers []int32) int32 {
 	var sum int32
 	for _, number := range numbers {
