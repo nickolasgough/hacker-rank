@@ -10,7 +10,7 @@ import (
 	"strings"
 )
 
-// Complete the 'diagonalDifference' function below.
+// Complete the diagonalDifference function below.
 // Found at https://www.hackerrank.com/challenges/diagonal-difference/problem.
 func diagonalDifference(matrix [][]int32) int32 {
 	var lSum, rSum int32
